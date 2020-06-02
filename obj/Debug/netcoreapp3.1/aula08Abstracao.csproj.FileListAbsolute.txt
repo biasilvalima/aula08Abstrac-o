@@ -1,0 +1,13 @@
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula08Abstracao\bin\Debug\netcoreapp3.1\aula08Abstracao.exe
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula08Abstracao\bin\Debug\netcoreapp3.1\aula08Abstracao.deps.json
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula08Abstracao\bin\Debug\netcoreapp3.1\aula08Abstracao.runtimeconfig.json
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula08Abstracao\bin\Debug\netcoreapp3.1\aula08Abstracao.runtimeconfig.dev.json
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula08Abstracao\bin\Debug\netcoreapp3.1\aula08Abstracao.dll
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula08Abstracao\bin\Debug\netcoreapp3.1\aula08Abstracao.pdb
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula08Abstracao\obj\Debug\netcoreapp3.1\aula08Abstracao.csprojAssemblyReference.cache
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula08Abstracao\obj\Debug\netcoreapp3.1\aula08Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula08Abstracao\obj\Debug\netcoreapp3.1\aula08Abstracao.AssemblyInfoInputs.cache
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula08Abstracao\obj\Debug\netcoreapp3.1\aula08Abstracao.AssemblyInfo.cs
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula08Abstracao\obj\Debug\netcoreapp3.1\aula08Abstracao.dll
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula08Abstracao\obj\Debug\netcoreapp3.1\aula08Abstracao.pdb
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula08Abstracao\obj\Debug\netcoreapp3.1\aula08Abstracao.genruntimeconfig.cache
