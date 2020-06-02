@@ -8,6 +8,8 @@ namespace aula08Abstracao
         public string titular { get; set; }
         public string cvv { get; set; }
 
+
+        //validamos o token porque no program deu problema, a validaçao foi atribuida e nao foi utilizada e precisa utilizar
         public bool ValidarToken(){
             if(token != null){
                 return true;
